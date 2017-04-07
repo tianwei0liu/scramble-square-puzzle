@@ -1,0 +1,3 @@
+The program finds the solution to this puzzle by implementing depth first search to explore all the possibilities of the puzzle and find all the unique solutions to the problem if they exist.
+It reads in input from a txt file. Given nine squares with colorful tiles on each of its sides, matching the heads and tails. The colors should be encoded as the first letter of the name of the color, e.g. red as “R”, yellow as “Y”, blue as “B”, green as “G”. The heads are encoded as 1 and tails are encoded as 0. A simple input is provided in puzzle.txt. 
+After finish exploring all the possibilities, print out the result.
